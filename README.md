@@ -1,12 +1,9 @@
 ## Hi there,  I'm Thiago Soares 👋
 
-
-
-<div>
-  <a href="https://github.com/ellen2121">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=thiagocardososoares&theme=github_dark&show_icons=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocardososoares&layout=compact&langs_count=7&theme=github_dark" />
-
+  <div align="left">
+  <a href="https://github.com/thiagocardososoares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagocardososoares&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocardososoares&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 
